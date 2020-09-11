@@ -23,5 +23,9 @@ modem.vbs - Simple connection to phone using com port and 'AT' commad set
 
 move.vbs - Move files from one folder to another 
 
+Netstat.vbs - Checks if application is running on port xxx
+
+Number2ASCII.vbs - Convert a simple two digit number to ASCII and join to a string
+
 phone_SMS.vbs - Simple connection to phone using com port and 'AT' commad set 
 
